@@ -1,0 +1,163 @@
+<img src="img/portfolio-lyst-02-2880px.jpg" 
+			srcset="
+			img/portfolio-lyst-02-520px.jpg 520w,
+			img/portfolio-lyst-02-768px.jpg 768w,
+			img/portfolio-lyst-02-860px.jpg 860w,
+			img/portfolio-lyst-02-1040px.jpg 1040w,
+			img/portfolio-lyst-02-1130px.jpg 1130w,
+			img/portfolio-lyst-02-1440px.jpg 1440w,
+			img/portfolio-lyst-02-1536px.jpg 1536w,
+			img/portfolio-lyst-02-1720px.jpg 1720w,
+			img/portfolio-lyst-02-2260px.jpg 2260w,
+			img/portfolio-lyst-02-2880px.jpg 2880w"
+			sizes="
+			(max-width: 425px) 425px,
+			(max-width: 520px) 520px,
+			(max-width: 768px) 768px,
+			(max-width: 860px) 860px,
+			(max-width: 1130px) 1130px,
+			(max-width: 1440px) 1440px"
+		/>
+		<img src="img/portfolio-voga-01-2880px.jpg" 
+			srcset="
+			img/portfolio-voga-01-520px.jpg 520w,
+			img/portfolio-voga-01-768px.jpg 768w,
+			img/portfolio-voga-01-860px.jpg 860w,
+			img/portfolio-voga-01-1040px.jpg 1040w,
+			img/portfolio-voga-01-1130px.jpg 1130w,
+			img/portfolio-voga-01-1440px.jpg 1440w,
+			img/portfolio-voga-01-1536px.jpg 1536w,
+			img/portfolio-voga-01-1720px.jpg 1720w,
+			img/portfolio-voga-01-2260px.jpg 2260w,
+			img/portfolio-voga-01-2880px.jpg 2880w"
+			sizes="
+			(max-width: 425px) 425px,
+			(max-width: 520px) 520px,
+			(max-width: 768px) 768px,
+			(max-width: 860px) 860px,
+			(max-width: 1130px) 1130px,
+			(max-width: 1440px) 1440px"
+		/>
+		<img src="img/portfolio-voga-02-2880px.jpg" 
+			srcset="
+			img/portfolio-voga-02-520px.jpg 520w,
+			img/portfolio-voga-02-768px.jpg 768w,
+			img/portfolio-voga-02-860px.jpg 860w,
+			img/portfolio-voga-02-1040px.jpg 1040w,
+			img/portfolio-voga-02-1130px.jpg 1130w,
+			img/portfolio-voga-02-1440px.jpg 1440w,
+			img/portfolio-voga-02-1536px.jpg 1536w,
+			img/portfolio-voga-02-1720px.jpg 1720w,
+			img/portfolio-voga-02-2260px.jpg 2260w,
+			img/portfolio-voga-02-2880px.jpg 2880w"
+			sizes="
+			(max-width: 425px) 425px,
+			(max-width: 520px) 520px,
+			(max-width: 768px) 768px,
+			(max-width: 860px) 860px,
+			(max-width: 1130px) 1130px,
+			(max-width: 1440px) 1440px"
+		/>
+		<img src="img/portfolio-voga-03-2880px.jpg" 
+			srcset="
+			img/portfolio-voga-03-520px.jpg 520w,
+			img/portfolio-voga-03-768px.jpg 768w,
+			img/portfolio-voga-03-860px.jpg 860w,
+			img/portfolio-voga-03-1040px.jpg 1040w,
+			img/portfolio-voga-03-1130px.jpg 1130w,
+			img/portfolio-voga-03-1440px.jpg 1440w,
+			img/portfolio-voga-03-1536px.jpg 1536w,
+			img/portfolio-voga-03-1720px.jpg 1720w,
+			img/portfolio-voga-03-2260px.jpg 2260w,
+			img/portfolio-voga-03-2880px.jpg 2880w"
+			sizes="
+			(max-width: 425px) 425px,
+			(max-width: 520px) 520px,
+			(max-width: 768px) 768px,
+			(max-width: 860px) 860px,
+			(max-width: 1130px) 1130px,
+			(max-width: 1440px) 1440px"
+		/>
+		<img src="img/portfolio-ahead-01-2880px.jpg" 
+			srcset="
+			img/portfolio-ahead-01-520px.jpg 520w,
+			img/portfolio-ahead-01-768px.jpg 768w,
+			img/portfolio-ahead-01-860px.jpg 860w,
+			img/portfolio-ahead-01-1040px.jpg 1040w,
+			img/portfolio-ahead-01-1130px.jpg 1130w,
+			img/portfolio-ahead-01-1440px.jpg 1440w,
+			img/portfolio-ahead-01-1536px.jpg 1536w,
+			img/portfolio-ahead-01-1720px.jpg 1720w,
+			img/portfolio-ahead-01-2260px.jpg 2260w,
+			img/portfolio-ahead-01-2880px.jpg 2880w"
+			sizes="
+			(max-width: 425px) 425px,
+			(max-width: 520px) 520px,
+			(max-width: 768px) 768px,
+			(max-width: 860px) 860px,
+			(max-width: 1130px) 1130px,
+			(max-width: 1440px) 1440px"
+		/>
+		<div class="project-description">
+			<h5 class="project-description-text"><svg width="13" height="13" xmlns="http://www.w3.org/2000/svg"><g fill="#6D6E6E" fill-rule="nonzero"><path d="M8.346 4.846a.5.5 0 01.638-.057l.07.057 3.5 3.5a.5.5 0 01.057.638l-.057.07-3.5 3.5a.5.5 0 01-.765-.638l.057-.07L11.493 8.7 8.346 5.554a.5.5 0 01-.057-.638l.057-.07z"/><path d="M1 .5a.5.5 0 01.492.41L1.5 1v4.9a2.3 2.3 0 002.143 2.295L3.8 8.2h8.4a.5.5 0 01.09.992l-.09.008H3.8A3.3 3.3 0 01.505 6.087L.5 5.9V1A.5.5 0 011 .5z"/></g></svg><u>Client</u>: Ahead &nbsp;|&nbsp; <u>Agency</u>: Fathom & Draft &nbsp;|&nbsp; <u>Role</u>: UX/UI Designer</h5>
+		</div>
+		<img src="img/portfolio-agentprovocateur-01-2880px.jpg" 
+			srcset="
+			img/portfolio-agentprovocateur-01-520px.jpg 520w,
+			img/portfolio-agentprovocateur-01-768px.jpg 768w,
+			img/portfolio-agentprovocateur-01-860px.jpg 860w,
+			img/portfolio-agentprovocateur-01-1040px.jpg 1040w,
+			img/portfolio-agentprovocateur-01-1130px.jpg 1130w,
+			img/portfolio-agentprovocateur-01-1440px.jpg 1440w,
+			img/portfolio-agentprovocateur-01-1536px.jpg 1536w,
+			img/portfolio-agentprovocateur-01-1720px.jpg 1720w,
+			img/portfolio-agentprovocateur-01-2260px.jpg 2260w,
+			img/portfolio-agentprovocateur-01-2880px.jpg 2880w"
+			sizes="
+			(max-width: 425px) 425px,
+			(max-width: 520px) 520px,
+			(max-width: 768px) 768px,
+			(max-width: 860px) 860px,
+			(max-width: 1130px) 1130px,
+			(max-width: 1440px) 1440px"
+		/>
+		<img src="img/portfolio-agentprovocateur-02-2880px.jpg" 
+			srcset="
+			img/portfolio-agentprovocateur-02-520px.jpg 520w,
+			img/portfolio-agentprovocateur-02-768px.jpg 768w,
+			img/portfolio-agentprovocateur-02-860px.jpg 860w,
+			img/portfolio-agentprovocateur-02-1040px.jpg 1040w,
+			img/portfolio-agentprovocateur-02-1130px.jpg 1130w,
+			img/portfolio-agentprovocateur-02-1440px.jpg 1440w,
+			img/portfolio-agentprovocateur-02-1536px.jpg 1536w,
+			img/portfolio-agentprovocateur-02-1720px.jpg 1720w,
+			img/portfolio-agentprovocateur-02-2260px.jpg 2260w,
+			img/portfolio-agentprovocateur-02-2880px.jpg 2880w"
+			sizes="
+			(max-width: 425px) 425px,
+			(max-width: 520px) 520px,
+			(max-width: 768px) 768px,
+			(max-width: 860px) 860px,
+			(max-width: 1130px) 1130px,
+			(max-width: 1440px) 1440px"
+		/>
+		<img src="img/portfolio-dove-01-2880px.jpg" 
+			srcset="
+			img/portfolio-dove-01-520px.jpg 520w,
+			img/portfolio-dove-01-768px.jpg 768w,
+			img/portfolio-dove-01-860px.jpg 860w,
+			img/portfolio-dove-01-1040px.jpg 1040w,
+			img/portfolio-dove-01-1130px.jpg 1130w,
+			img/portfolio-dove-01-1440px.jpg 1440w,
+			img/portfolio-dove-01-1536px.jpg 1536w,
+			img/portfolio-dove-01-1720px.jpg 1720w,
+			img/portfolio-dove-01-2260px.jpg 2260w,
+			img/portfolio-dove-01-2880px.jpg 2880w"
+			sizes="
+			(max-width: 425px) 425px,
+			(max-width: 520px) 520px,
+			(max-width: 768px) 768px,
+			(max-width: 860px) 860px,
+			(max-width: 1130px) 1130px,
+			(max-width: 1440px) 1440px"
+		/>
